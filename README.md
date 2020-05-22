@@ -8,8 +8,6 @@ A basic template for React App (Client Side Rendering).
 > Using BnB code standards and react-hooks rules
 - [Styled Components](https://styled-components.com/)
 > Already configured for SSR application and with a global style example
-- [Babel Plugin Root Import](https://www.npmjs.com/package/babel-plugin-root-import)
-> Allows import with a '~' for the root folder
 
 ## First Steps
 
