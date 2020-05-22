@@ -1,7 +1,8 @@
 {
     "env": {
         "browser": true,
-        "es6": true
+        "es6": true,
+        "jest/globals": true
     },
     "extends": [
         "plugin:react/recommended",
@@ -23,7 +24,8 @@
     "plugins": [
         "react",
         "react-hooks",
-        "prettier"
+        "prettier",
+        "jest"
     ],
     "rules": {
       "prettier/prettier": "error",

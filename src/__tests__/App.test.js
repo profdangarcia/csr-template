@@ -1,9 +1,9 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import App from './../App';
+import App from '../App';
 
-test('renders welcome text', () => {
+test('renders home page', () => {
   const { getByText } = render(<App />);
-  const linkElement = getByText("Bem vindo!");
+  const linkElement = getByText('Home Page');
   expect(linkElement).toBeInTheDocument();
 });
