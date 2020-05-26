@@ -11,7 +11,7 @@ A basic template for React App (Client Side Rendering).
 
 ## First Steps
 
-This project has been developed with Node (v12.14.1), for it to works correctly use the Node Version Manager (NVM) for using the correct version. Open the project and execute the command:
+This project has been developed with Node (v12.16.3), for it to works correctly use the Node Version Manager (NVM) for using the correct version. Open the project and execute the command:
 
     nvm use
 Once you did it, install all the project dependencies NPM package manager:
